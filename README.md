@@ -22,7 +22,13 @@ a. 提交 PR
 - 在 GitHub 网页端点击 Upload File 上传文件
 - 发起 PR
 
-## 致谢🙏
+## 声明与致谢
+#### 许可
+由贡献者编写部分的许可如下：
+[CC-BY-NC-SA：署名-非商业性使用-相同方式共享](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh/)版权归属于各自作者。<br>
+如您觉得本资料中有内容侵权了您的权益，请发送邮件至 legalcopyrightncu@protonmail.com ,我们将在第一时间处理。
+
+#### 感谢🙏
 以下内容启发了本通关宝典的撰写，谨表感谢：
 - [浙江大学课程攻略共享计划](https://qsctech.github.io/zju-icicles/)
 - [上海交通大学生存手册](https://survivesjtu.gitbook.io/survivesjtumanual/)
