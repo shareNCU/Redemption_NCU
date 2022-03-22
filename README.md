@@ -24,6 +24,6 @@ a. 提交 PR
 
 ## 致谢🙏
 以下内容启发了本通关宝典的撰写，谨表感谢：
-- 浙江大学课程攻略共享计划
-- 上海交通大学生存手册
+- [浙江大学课程攻略共享计划](https://qsctech.github.io/zju-icicles/)
+- [上海交通大学生存手册](https://survivesjtu.gitbook.io/survivesjtumanual/)
 
